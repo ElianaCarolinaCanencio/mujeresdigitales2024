@@ -1,0 +1,10 @@
+/* src/TemperatureDisplay.css */
+
+.temperature-display {
+    margin: 20px;
+}
+
+.temperature-display p {
+    font-size: 1.2em;
+    color: #f1d5d5;
+}
